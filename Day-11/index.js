@@ -5,7 +5,7 @@ console.log("Ternary:", canVote);
 
 
 // Template Literals (Updated variable names)
-let myUserName = "Harshada";
+let myUserName = "Chaitali;
 let myUserCity = "Mumbai";
 let message = 'Hello ${myUserName}, welcome to ${myUserCity}.';
 console.log("Template Literal:", message);
@@ -33,7 +33,7 @@ function showNextStep() {
   console.log("Please follow the instructions."); 
 }
 
-greetUser("Harshada", showNextStep);
+greetUser("Chaitali", showNextStep);
 
 
 // Callback with Condition
